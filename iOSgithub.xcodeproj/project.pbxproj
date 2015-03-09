@@ -15,6 +15,7 @@
 		37B332DC1AAC534000BA4903 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 37B332DB1AAC534000BA4903 /* Images.xcassets */; };
 		37B332DF1AAC534000BA4903 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 37B332DD1AAC534000BA4903 /* LaunchScreen.xib */; };
 		37B332EB1AAC534000BA4903 /* iOSgithubTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 37B332EA1AAC534000BA4903 /* iOSgithubTests.m */; };
+		37B332F51AAD98DC00BA4903 /* blank card rounded corner.png in Resources */ = {isa = PBXBuildFile; fileRef = 37B332F41AAD98DC00BA4903 /* blank card rounded corner.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -42,6 +43,7 @@
 		37B332E41AAC534000BA4903 /* iOSgithubTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = iOSgithubTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		37B332E91AAC534000BA4903 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		37B332EA1AAC534000BA4903 /* iOSgithubTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = iOSgithubTests.m; sourceTree = "<group>"; };
+		37B332F41AAD98DC00BA4903 /* blank card rounded corner.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "blank card rounded corner.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +86,7 @@
 			isa = PBXGroup;
 			children = (
 				37B332CF1AAC534000BA4903 /* AppDelegate.h */,
+				37B332F41AAD98DC00BA4903 /* blank card rounded corner.png */,
 				37B332D01AAC534000BA4903 /* AppDelegate.m */,
 				37B332D51AAC534000BA4903 /* ViewController.h */,
 				37B332D61AAC534000BA4903 /* ViewController.m */,
@@ -202,6 +205,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				37B332F51AAD98DC00BA4903 /* blank card rounded corner.png in Resources */,
 				37B332DA1AAC534000BA4903 /* Main.storyboard in Resources */,
 				37B332DF1AAC534000BA4903 /* LaunchScreen.xib in Resources */,
 				37B332DC1AAC534000BA4903 /* Images.xcassets in Resources */,
@@ -416,6 +420,7 @@
 				37B332F01AAC534000BA4903 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		37B332F11AAC534000BA4903 /* Build configuration list for PBXNativeTarget "iOSgithubTests" */ = {
 			isa = XCConfigurationList;
@@ -424,6 +429,7 @@
 				37B332F31AAC534000BA4903 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
